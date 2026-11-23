@@ -1,0 +1,5 @@
+GitHub Basics Lab - Notes
+
+- Git is a version-control tool that records changes to files.
+- GitHub stores Git repositories online for backup and collaboration.
+- Basic workflow: edit -> add (stage) -> commit -> push.
